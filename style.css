@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    background-image: url(img/pig2.png); 
+    background-repeat: no-repeat;
+    background-position:2cm; 
+    background-color: aqua;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}  
+.green{
+    background-color: #63AAC0;
+}
+.purple{
+    background-color: #819ff9;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color:greenyellow;
+}
+
+@media screen and (max-width:431px) {
+    .btn{
+        height: 120px;
+        width: 120px;
+        border-radius: 16%;
+        border: 5px solid black;
+        margin: 1.5rem;
+    }
+
+    body{
+    background-image: url(img/pig2.png); 
+    background-repeat: no-repeat;
+    background-position:3cm 15cm; 
+    }    
+}
+
