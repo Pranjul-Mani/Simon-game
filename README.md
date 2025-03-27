@@ -3,7 +3,7 @@
 
 This is a simple easy to play game.It offers a simplistic yet engaging experience designed to provide a quick mental refreshment.
 
-## Tech Stack
+## Tech Stacks
 
 #### HTML - For giving structure and design.
 
