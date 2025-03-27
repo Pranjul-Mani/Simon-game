@@ -1,12 +1,20 @@
-# The Simon Says Game 
 
-This is a simple easy to play game.Its offers a simplistic yet engaging experience designed to provide a quick mental refreshment.
+# The Simon Says Game
 
-# Technologies Used
-1.JavaScript
-2.HTML
-3.CSS
+This is a simple easy to play game.It offers a simplistic yet engaging experience designed to provide a quick mental refreshment.
 
-# How to Play
-2.Open index.html in your preferred web browser.
-3.Use keyboard keys to start the game.
+## Tech Stack
+
+#### HTML - For giving structure and design.
+
+#### CSS - Used for styling.
+
+#### JavaSript - Giving functionality.
+
+
+## How to Play
+
+1. Open the game using the given link.
+
+2. Use keyboard keys to start the game.
+
